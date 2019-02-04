@@ -8,4 +8,7 @@ data/*/
 implementations/*/images
 implementations/*/saved_models
 
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
 __pycache__
